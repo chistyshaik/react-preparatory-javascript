@@ -2,19 +2,19 @@
 
 ### Class 1: Javascript Fundamentals
 - [x] Introduction to Javascript
-- [ ] Variables, data types and operators
-- [ ] Control structures (if/else statements, loops)
-- [ ] Functions and scope
-- [ ] Arrays and objects
-- [ ] ES6 features (let and const, arrow functions, template literals)
+- [x] Variables, data types and operators
+- [x] Control structures (if/else statements, loops)
+- [x] Functions and scope
+- [x] Arrays and objects
+- [x] ES6 features (let and const, arrow functions, template literals)
 
 
 ### Class 2: Javascript Functions
-- [ ] Understanding functions 
-- [ ] function declaration vs function expression
-- [ ] Passing arguments to functions
-- [ ] Default parameters
-- [ ] Higher-order functions
+- [x] Understanding functions 
+- [x] function declaration vs function expression
+- [x] Passing arguments to functions
+- [x] Default parameters
+- [x] Higher-order functions
 - [ ] Arrow functions
 - [ ] IIFE (Immediately Invoke Function Expression)
 - [ ] Closures and their importance
